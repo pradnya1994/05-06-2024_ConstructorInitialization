@@ -1,0 +1,25 @@
+Class: it is a template or blueprint to the java object/instance
+
+
+Object: it is instance of a class, means based the class template we can create physical entity, 
+        which hold memory space in RAM(Heap) memory.
+        
+new keyword: new operator/keyword which helps JVM to create an object based on given class name.
+             and also it will allocate certain memory(RAM(Heap memory)) to java object.
+             
+Class Properties:
+	- fields
+	- initializers
+		- constructors
+		- blocks
+	- methods
+	- inner/nested classes
+	
+	
+Task-1: Write a java program, let us take Employee class as template with id, name, role, department 
+        and salary
+        
+        1. create an object of Employee class
+        2. initialize an object of an Employee class
+        3. print employee object details.
+         
